@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258368196880",
+    "firebase_url": "https://khadamat-1db9b.firebaseio.com",
+    "project_id": "khadamat-1db9b",
+    "storage_bucket": "khadamat-1db9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258368196880:android:89b02c2356364f59c5d595",
+        "android_client_info": {
+          "package_name": "com.muhammadandmustafa.khadamatseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258368196880-64paef8lccuo6l39q0lrakhv2av50t8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadandmustafa.khadamatseller",
+            "certificate_hash": "16c3d56b5e76f67b7216d59f503293497d8373f5"
+          }
+        },
+        {
+          "client_id": "258368196880-2mmqsrgigbmvs8mn0bis8r0dfsl1h9t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBit3egsc47TajwnKqm4RcICBEOwDPbUF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258368196880-2mmqsrgigbmvs8mn0bis8r0dfsl1h9t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

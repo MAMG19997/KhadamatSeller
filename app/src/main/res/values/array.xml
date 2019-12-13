@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>المدينة</item>
+        <item>القاهرة</item>
+        <item>الجيزة</item>
+    </string-array>
+
+    <string-array name="cairo_areas">
+        <item>المنطقة</item>
+        <item>المعادي</item>
+        <item>زهراء المعادي</item>
+        <item>البساتين</item>
+        <item>دار السلام</item>
+        <item>طرة</item>
+        <item>المعصرة</item>
+        <item>المقطم</item>
+        <item>مصر القديمة</item>
+        <item>مصر الجديدة</item>
+        <item>حلوان</item>
+        <item>الخليفة</item>
+        <item>السيدة زينب</item>
+        <item>15 مايو</item>
+        <item>التبين</item>
+        <item>عين شمس</item>
+        <item>المرج</item>
+        <item>المطرية</item>
+        <item>النزهة</item>
+        <item>مدينة نصر شرق</item>
+        <item>مدينة نصر غرب</item>
+        <item>السلام أول</item>
+        <item>السلام ثاني</item>
+        <item>الأميرية</item>
+        <item>الزاوية الحمراء</item>
+        <item>الزيتون</item>
+        <item>الساحل</item>
+        <item>الشرابية</item>
+        <item>حدائق القبة</item>
+        <item>روض الفرج</item>
+        <item>شبرا</item>
+        <item>الأريكية</item>
+        <item>الموسكي</item>
+        <item>الوايلي</item>
+        <item>باب الشعرية</item>
+        <item>بولاق</item>
+        <item>عابدين</item>
+        <item>منشأة ناصر</item>
+        <item>غرب</item>
+        <item>وسط</item>
+    </string-array>
+
+    <string-array name="giza_areas">
+        <item>المنطقة</item>
+        <item>الدقي</item>
+        <item>العجوزة</item>
+        <item>بولاق الدكرور</item>
+        <item>العمرانية</item>
+        <item>الهرم</item>
+        <item>الوراق</item>
+        <item>شمال الجيزة</item>
+        <item>جنوب الجيزة</item>
+    </string-array>
+
+    <string-array name="specialty">
+        <item>مجال البيع</item>
+        <item>أدوات كهربائية ومعدات يدوية</item>
+        <item>الطلاء ولوازم الدهان</item>
+        <item>أدوات صحية ولوازم السباكة</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>القسم</item>
+        <item>أدوات كهربائية</item>
+        <item>لوازم الأدوات الكهربائية والالكترونية</item>
+        <item>معدات يدوية</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#c20000</color>
+    <color name="colorAccent">#ff5a36</color>
+    <color name="commonBlackTextColor">#989898</color>
+    <color name="white">#ffffff</color>
+    <color name="grayCommon">#787878</color>
+    <color name="background">#a4a4a4</color>
+    <color name="googleButton">#D83028</color>
+
+    <!-- colors for intro button style -->
+    <color name="gradient_start_color">#FF0000</color>
+    <color name="gradient_end_color">#c20000</color>
+
+    <!-- colors for intro tab and screen text -->
+    <color name="tab_indicator_grey">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+</resources>
